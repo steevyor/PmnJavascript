@@ -10,7 +10,7 @@ var tab = new Array();
 for(let step = 0; step<5 ; step++)
 {
 	
-	tan[step] = scanf('%d')
+	tab[step] = scanf('%d')
 
 }
 
